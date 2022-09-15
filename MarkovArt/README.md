@@ -29,6 +29,9 @@ because they all tended to 0 ugh
 
 COULD CHANGE BRUSH TYPE TOO????
 
+started to adjust matrices for color and it actually became cooler looking 
+
+
 3. I do believe this system is creative because its artifacts are generated in a novel way 
    novel - it is a novel process: trying to create a JASJDJSJFJD
    valuable - trying to mimic a painter's brush reveals to us how difficult it is to predict or replicate the essence
