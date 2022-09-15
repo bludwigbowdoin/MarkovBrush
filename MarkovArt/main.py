@@ -57,7 +57,7 @@ class ArtWalker:
         )
 
     def walk_around(self, current_direction="N", current_color="blue", path_length=100, jump_size=50):
-        """Generating a path through a modified random walk with color and texture variation.
+        """Generating a path through a modified random walk with color variation.
         Args:
             current_direction (str): starting direction
             current_color (str): starting color
