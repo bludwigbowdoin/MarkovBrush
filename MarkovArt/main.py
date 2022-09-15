@@ -48,6 +48,8 @@ class ArtWalker:
         """ Determine the next color based on the current color
         Args:
             current_color (str): the current color
+        Returns:
+            (str): next color
         """
         return np.random.choice(
             self.colors,
@@ -61,6 +63,8 @@ class ArtWalker:
             current_color (str): starting color
             path_length (int): number of steps per path
             jump_size (int): size of a jump
+        Returns:
+            path (array): stores coordinate and color info
         """
         x = np.zeros(path_length)
         y = np.zeros(path_length)
