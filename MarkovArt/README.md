@@ -20,7 +20,7 @@ Personal Meaning:
     the best of my ability was what made this project personally meaningful to me at first. What gave this project 
     greater meaning to me was when I finally made my first multicolored, properly dimensioned artifact. It was indeed 
     simple, but it was also unique and fun to me. It immediately reminded me of a pixelated self-portrait of George 
-    Stibitz I frequently saw in the Math/CS department of Denison University as I grew up (my dad is a math professor 
+    Stibitz (https://denison.edu/sites/default/files/stibitzself.jpg) I frequently saw in the Math/CS department of Denison University as I grew up (my dad is a math professor 
     there). George Stibitz's contribution to computing, and the similarity of my program's results to Stibitz's own 
     creations made this connection special to me. Unlike his images, mine do not have a prescribed subject, but I find 
     it fun to guess what my images could represent, as in cloud-gazing. The connection to Stibitz's self-portrait also 
@@ -71,5 +71,5 @@ Sources:
     method before finding this source, I was thinking of using a matrix to track the trace of position. I really 
     liked how this source uses two simple arrays to keep track of x and y coordinates, with discrete time being the
     index of each array. 
-    ( www.geeksforgeeks.org/random-walk-implementation-python/ ) 
+    (www.geeksforgeeks.org/random-walk-implementation-python/) 
     I did not seek any advice from colleagues on this project. 

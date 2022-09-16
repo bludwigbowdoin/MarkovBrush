@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="109faa6b-6ff8-4feb-946d-f8d341605d78" name="Changes" comment="adding examples folder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="109faa6b-6ff8-4feb-946d-f8d341605d78" name="Changes" comment="finished README.md">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663282834072</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="finished README.md">
+      <created>1663286311201</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663286311201</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +154,7 @@
     <MESSAGE value="some more formatting" />
     <MESSAGE value="... more formatting" />
     <MESSAGE value="adding examples folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding examples folder" />
+    <MESSAGE value="finished README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished README.md" />
   </component>
 </project>
