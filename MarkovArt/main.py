@@ -133,7 +133,7 @@ def main():
     # user may adjust the following 5 variables:
     start_direction = "S"  # "N" for north, "E" for east, "S" for south, "W" for west
     start_color = "cyan"  # "blue", "green", "red", "cyan", "magenta", or "yellow"
-    texture = CIRCLE  # POINT, PIXEL, CIRCLE, SQUARE, or DIAMOND
+    texture = PIXEL  # POINT, PIXEL, CIRCLE, SQUARE, or DIAMOND
     path_length = 1000  # integer from 1 to 10,000 (above 10,000 can take a while)
     jump_size = 1  # integer 1 or greater
 
